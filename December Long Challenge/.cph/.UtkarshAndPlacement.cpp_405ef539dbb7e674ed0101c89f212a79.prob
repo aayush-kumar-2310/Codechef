@@ -1,0 +1,1 @@
+{"name":"Local: UtkarshAndPlacement","url":"d:\\Programming\\December Long Challenge\\UtkarshAndPlacement.cpp","tests":[{"id":1638524090279,"input":"2\nA B C\nA B\nB C A\nA C","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\December Long Challenge\\UtkarshAndPlacement.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: ValleysAndHills","url":"d:\\Programming\\December Long Challenge\\ValleysAndHills.cpp","tests":[{"id":1638525458822,"input":"3\n3 2\n2 3\n3 3","output":"7\n0101010\n7\n1010101\n8\n01010101"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\December Long Challenge\\ValleysAndHills.cpp","group":"local","local":true}
